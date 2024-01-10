@@ -1,4 +1,4 @@
-All the test located in test directory
+All the tests located in test directory
 
 To run all tests type in the terminal - npx playwright test
 
